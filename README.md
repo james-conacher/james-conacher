@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+My name is James, and I am a self taught software developer from South Africa.
+
+## Current Projects I'm Working On
+- Interactive MDX-Based Blog 
+
+## Values I Live By
+- Unapologetic Authenticity 💯
+- Mindset of Lifetime Learning 🧠
+- Clear and Concise Communication 🗣️
+
+##  Hobbies
+- Golf ⛳️
+- Frequenting the Gym 🏋🏻
+- Gaming 🎮
+
 <!--
 **james-conacher/james-conacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
