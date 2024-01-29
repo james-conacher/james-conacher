@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is James, and I am a self-taught software developer from Cape Town, South Africa.
+My name is James, and I am a self-taught software developer from Cape Town, South Africa with years of experience in the eCommerce realm. 
 
 ## Learning Focuses 🧠
 ### Current
