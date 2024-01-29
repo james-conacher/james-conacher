@@ -1,9 +1,17 @@
 ### Hi there 👋
 
-My name is James, and I am a self taught software developer from South Africa.
+My name is James, and I am a self-taught software developer from Cape Town, South Africa.
+
+## Learning Focuses 🧠
+### Current
+- React (Fullstack)
+
+### Next Up
+- Typescript
+- AWS Fundamentals
 
 ## Current Projects I'm Working On
-- Interactive MDX-Based Blog 
+- Wordle Replica (React)
 
 ## Values I Live By
 - Unapologetic Authenticity 💯
@@ -12,7 +20,8 @@ My name is James, and I am a self taught software developer from South Africa.
 
 ##  Hobbies
 - Golf ⛳️
-- Frequenting the Gym 🏋🏻
+- The Gym 🏋🏻
+-
 - Gaming 🎮
 
 <!--
