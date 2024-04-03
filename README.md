@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is James, and I am a self-taught software developer from Cape Town, South Africa with years of experience in the eCommerce realm. If you want to see my latest ramblings, I am learning and buidling publically at [here](https://hashnode.com/@jamesconacher)
+My name is James, and I am a self-taught software developer from Cape Town, South Africa with years of experience in the eCommerce realm. If you want to see my latest ramblings, I am learning and building in public [here](https://hashnode.com/@jamesconacher). 
 
 ## Learning Focuses 🧠
 ### Current
-- React (Fullstack)
+- React
 
 ### Next Up
 - Typescript & Javascript deep dive
