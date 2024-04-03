@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is James, and I am a self-taught software developer from Cape Town, South Africa with years of experience in the eCommerce realm. If you want to see my latest ramblings, I am learning and building in public [here](https://hashnode.com/@jamesconacher){:target="_blank"}. 
+My name is James, and I am a self-taught software developer from Cape Town, South Africa with years of experience in the eCommerce realm. If you want to see my latest ramblings, I am learning and building in public [here](https://hashnode.com/@jamesconacher).
 
 ## Skill List ✍🏼
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,react,bitbucket,github&perline=5)](https://skillicons.dev)
