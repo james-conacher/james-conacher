@@ -11,6 +11,7 @@ My name is James, and I am a self-taught software developer from Cape Town, Sout
 - AWS Fundamentals
 - Unit Testing (Jest)
 - NodeJS
+- Three JS
 
 ## Current Projects I'm Working On
 - Wordle Replica (React)
