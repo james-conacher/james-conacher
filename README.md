@@ -3,7 +3,7 @@
 My name is James, and I am a self-taught software developer from Cape Town, South Africa with years of experience in the eCommerce realm.
 
 ## Skill List ✍🏼
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,react,bitbucket,github&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,react,bitbucket,github,ts,nextjs,nodejs&perline=5)](https://skillicons.dev)
 ## Learning Focuses 🧠
 ### Current
 - React (Full Stack) 
