@@ -6,6 +6,7 @@ My name is James, and I am a self-taught software developer from Cape Town, Sout
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,react,bitbucket,github,ts,nextjs,nodejs&perline=5)](https://skillicons.dev)
 ## Learning Focuses 🧠
 ### Current
+- GraphQL with Examples
 - React (Full Stack) 
 
 ### Next Up
