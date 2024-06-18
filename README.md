@@ -3,7 +3,7 @@
 My name is James, and I am a software developer from Cape Town, South Africa with years of experience in the eCommerce realm.
 
 ## Skill List ✍🏼
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,react,bitbucket,github,ts,nextjs,nodejs,graphql&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,react,bitbucket,github,ts,graphql&perline=5)](https://skillicons.dev)
 ## Learning Focuses 🧠
 ### Current
 - GraphQL with Examples
