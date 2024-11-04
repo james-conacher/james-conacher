@@ -1,19 +1,9 @@
 ### Hi there 👋
 
-My name is James, and I am a software developer from Cape Town, South Africa with years of experience in the eCommerce realm.
+My name is James, and I am a software developer from Cape Town, South Africa with years of experience in the eCommerce realm. 
 
 ## Skill List ✍🏼
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,react,bitbucket,github,ts,graphql&perline=5)](https://skillicons.dev)
-## Learning Focuses 🧠
-### Current
-- Typescript & Javascript (deep dive)
-- React (Full Stack) 
-
-### Next Up
-- AWS Foundational
-- Three JS
-- Solidity
-- GraphQL with Examples
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,react,bitbucket,github,ts,graphql,nextjs&perline=5)](https://skillicons.dev)
 
 <!--
 **james-conacher/james-conacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
