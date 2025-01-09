@@ -1,6 +1,6 @@
 ### Hi there, I'm James! 
 
-Passionate and highly adaptable software engineer focused on digital transformation and its integration into the business environment. Froth for innovation and anything tech related.
+Passionate and highly adaptable software engineer focused on digital transformation and its integration into the business environment. Froth for innovation and anything tech related. Stickler for user-centric design.
 
 ## Current Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,react,bitbucket,github,ts,nextjs&perline=5)](https://skillicons.dev)
